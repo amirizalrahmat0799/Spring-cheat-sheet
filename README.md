@@ -1,6 +1,5 @@
-# CorsFilter Introduction
-CORS Filter is a generic solution for fitting Cross-Origin Resource Sharing (CORS) support to Java web applications. CORS is a W3C standard for enabling cross-domain requests from web browsers to servers and web APIs that opt in to handle them.
-
+# Spring Introduction
+The Spring Framework (Spring) is an open-source application framework that provides infrastructure support for developing Java applications. One of the most popular Java Enterprise Edition (Java EE) frameworks, Spring helps developers create high performing applications using plain old Java objects (POJOs).
 
 # Details
-this is boilerplate code to let connection of backend application through frontend application
+this is cheat sheet made to handle nessecary things for development process
